@@ -1,0 +1,11 @@
+date,description,amount,description_clean,rule_category
+2025-07-01,Uber Trip,-14.32,UBER TRIP,Transport
+2025-07-01,Starbucks,-5.67,STARBUCKS,Coffee
+2025-07-02,NETFLIX.COM,-15.49,NETFLIX.COM,Entertainment
+2025-07-02,Whole Foods,-42.1,WHOLE FOODS,Groceries
+2025-07-03,Payroll,1500.0,PAYROLL,Income
+2025-07-03,Spotify,-9.99,SPOTIFY,Entertainment
+2025-07-04,Amazon Marketplace,-23.58,AMAZON MARKETPLACE,Shopping
+2025-07-05,Shell Gas,-34.21,SHELL GAS,Gas
+2025-07-06,Delta Airlines,-220.0,DELTA AIRLINES,Other
+2025-07-07,Chipotle,-10.45,CHIPOTLE,Dining
